@@ -15,7 +15,7 @@ void ShowReview(const Review& rr);
 
 int main()
 {
-
+	std::vector<Review> books;
 
 
 	return 0;
